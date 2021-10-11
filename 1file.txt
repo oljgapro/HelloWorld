@@ -2,8 +2,4 @@
 456
 Add Line
 test line 0710202144
-<<<<<<< HEAD
-22
-=======
-added from github
->>>>>>> 401cab9b6c7f001419c3f2d008340c1ffdd468fa
+
